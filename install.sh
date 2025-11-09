@@ -244,7 +244,7 @@ EOF
     log_success "✔ Конфигурация Nginx обновлена."
 }
 
-REPO_URL="https://github.com/Abdusalamovmm/remnawave-shopbot.git"
+REPO_URL="https://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@github.com/Abdusalamovmm/remnawave-shopbot.git"
 PROJECT_DIR="remnawave-shopbot"
 NGINX_CONF="/etc/nginx/sites-available/${PROJECT_DIR}.conf"
 NGINX_LINK="/etc/nginx/sites-enabled/${PROJECT_DIR}.conf"
